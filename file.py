@@ -3,6 +3,7 @@
 #file2
 #file3
 #file4
+#file5
 inf=open('triangle.py')
 for i in inf.read().split('\n'):
   print(i)
